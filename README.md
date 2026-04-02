@@ -19,8 +19,8 @@ Analyzed correlations between features like median_income and median_house_value
 Handled missing values in the total_bedrooms column using median imputation to prevent data loss.
 ## Feature Engineering:
                        Created new meaningful attributes:
-rooms_per_household: Average rooms per house.
-bedroom_ratio: Proportion of bedrooms in a house.
+                       rooms_per_household: Average rooms per house.
+                       bedroom_ratio: Proportion of bedrooms in a house.
 
 ## Model Training: 
 Implemented Linear Regression and evaluated performance using the $R^2$ score.
