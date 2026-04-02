@@ -34,7 +34,7 @@ Matplotlib, Seaborn
 Jupyter Notebook / Google Colab
 
 ## 📂 Repository Structure
-├── House Predict.ipynb    # Full analysis, cleaning, and modeling code
-├── housing.csv            # California Housing dataset
-├── model.pkl              # Saved Regression model (optional)
-└── README.md              # Project documentation
+House Predict.ipynb    
+housing.csv            
+model.pkl              
+README.md              
