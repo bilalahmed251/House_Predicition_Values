@@ -34,7 +34,7 @@ Explore the deployed system live on Hugging Face Spaces:
 ## 🛠️ System Architecture & Data Pipeline
 
 This project demonstrates software engineering best practices for data science, ensuring a clean separation of concerns by separating training pipelines (`train.py`) from serving applications (`app.py`), and pre-serializing models to optimize sub-second online inference.
-
+ 
 ```mermaid
 graph TD
     A[California Census CSV Dataset] -->|1. Data Cleaning| B(Drop Missing Values)
